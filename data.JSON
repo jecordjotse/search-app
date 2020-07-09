@@ -1,4 +1,5 @@
-[
+{
+  spaces:[
   {
     "name": "fringilla ornare placerat,",
     "bathroom": 1,
@@ -495,3 +496,4 @@
   },
   { "name": "Nam nulla magna,", "bathroom": 1, "bedroom": 4, "price": "698.00" }
 ]
+}
