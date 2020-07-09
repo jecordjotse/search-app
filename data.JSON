@@ -1,0 +1,497 @@
+[
+  {
+    "name": "fringilla ornare placerat,",
+    "bathroom": 1,
+    "bedroom": 1,
+    "price": "207.00"
+  },
+  {
+    "name": "pede. Suspendisse dui.",
+    "bathroom": 2,
+    "bedroom": 4,
+    "price": "361.00"
+  },
+  { "name": "id, blandit at,", "bathroom": 4, "bedroom": 1, "price": "746.00" },
+  { "name": "nulla at sem", "bathroom": 2, "bedroom": 2, "price": "44.00" },
+  { "name": "Proin vel arcu", "bathroom": 2, "bedroom": 2, "price": "207.00" },
+  {
+    "name": "Cras pellentesque. Sed",
+    "bathroom": 1,
+    "bedroom": 3,
+    "price": "285.00"
+  },
+  {
+    "name": "mauris blandit mattis.",
+    "bathroom": 3,
+    "bedroom": 3,
+    "price": "819.00"
+  },
+  {
+    "name": "tellus. Phasellus elit",
+    "bathroom": 3,
+    "bedroom": 4,
+    "price": "852.00"
+  },
+  {
+    "name": "ut cursus luctus,",
+    "bathroom": 3,
+    "bedroom": 3,
+    "price": "871.00"
+  },
+  {
+    "name": "enim nisl elementum",
+    "bathroom": 2,
+    "bedroom": 1,
+    "price": "454.00"
+  },
+  { "name": "metus eu erat", "bathroom": 4, "bedroom": 2, "price": "924.00" },
+  {
+    "name": "ipsum sodales purus,",
+    "bathroom": 4,
+    "bedroom": 3,
+    "price": "69.00"
+  },
+  {
+    "name": "Praesent interdum ligula",
+    "bathroom": 2,
+    "bedroom": 3,
+    "price": "011.00"
+  },
+  { "name": "Mauris ut quam", "bathroom": 3, "bedroom": 1, "price": "812.00" },
+  {
+    "name": "sit amet, consectetuer",
+    "bathroom": 3,
+    "bedroom": 3,
+    "price": "375.00"
+  },
+  {
+    "name": "ligula. Nullam feugiat",
+    "bathroom": 3,
+    "bedroom": 2,
+    "price": "55.00"
+  },
+  {
+    "name": "Aliquam nisl. Nulla",
+    "bathroom": 1,
+    "bedroom": 1,
+    "price": "986.00"
+  },
+  {
+    "name": "a sollicitudin orci",
+    "bathroom": 1,
+    "bedroom": 3,
+    "price": "883.00"
+  },
+  {
+    "name": "ante bibendum ullamcorper.",
+    "bathroom": 4,
+    "bedroom": 4,
+    "price": "301.00"
+  },
+  {
+    "name": "odio, auctor vitae,",
+    "bathroom": 3,
+    "bedroom": 1,
+    "price": "533.00"
+  },
+  {
+    "name": "nisi. Mauris nulla.",
+    "bathroom": 1,
+    "bedroom": 1,
+    "price": "894.00"
+  },
+  {
+    "name": "sem molestie sodales.",
+    "bathroom": 2,
+    "bedroom": 3,
+    "price": "462.00"
+  },
+  {
+    "name": "sed dictum eleifend,",
+    "bathroom": 1,
+    "bedroom": 2,
+    "price": "884.00"
+  },
+  {
+    "name": "nec tempus mauris",
+    "bathroom": 3,
+    "bedroom": 2,
+    "price": "668.00"
+  },
+  {
+    "name": "elit, dictum eu,",
+    "bathroom": 2,
+    "bedroom": 3,
+    "price": "139.00"
+  },
+  {
+    "name": "sed orci lobortis",
+    "bathroom": 2,
+    "bedroom": 2,
+    "price": "304.00"
+  },
+  { "name": "eu tempor erat", "bathroom": 3, "bedroom": 4, "price": "165.00" },
+  {
+    "name": "Etiam ligula tortor,",
+    "bathroom": 1,
+    "bedroom": 3,
+    "price": "133.00"
+  },
+  {
+    "name": "neque. In ornare",
+    "bathroom": 4,
+    "bedroom": 4,
+    "price": "848.00"
+  },
+  {
+    "name": "amet, dapibus id,",
+    "bathroom": 2,
+    "bedroom": 1,
+    "price": "680.00"
+  },
+  {
+    "name": "aliquet, metus urna",
+    "bathroom": 4,
+    "bedroom": 1,
+    "price": "292.00"
+  },
+  {
+    "name": "fermentum convallis ligula.",
+    "bathroom": 1,
+    "bedroom": 3,
+    "price": "423.00"
+  },
+  { "name": "Sed et libero.", "bathroom": 1, "bedroom": 4, "price": "679.00" },
+  {
+    "name": "volutpat. Nulla dignissim.",
+    "bathroom": 3,
+    "bedroom": 4,
+    "price": "416.00"
+  },
+  {
+    "name": "mollis. Integer tincidunt",
+    "bathroom": 2,
+    "bedroom": 4,
+    "price": "983.00"
+  },
+  {
+    "name": "sit amet, risus.",
+    "bathroom": 2,
+    "bedroom": 3,
+    "price": "692.00"
+  },
+  {
+    "name": "iaculis, lacus pede",
+    "bathroom": 1,
+    "bedroom": 1,
+    "price": "308.00"
+  },
+  {
+    "name": "Sed pharetra, felis",
+    "bathroom": 3,
+    "bedroom": 3,
+    "price": "915.00"
+  },
+  {
+    "name": "Aenean euismod mauris",
+    "bathroom": 4,
+    "bedroom": 1,
+    "price": "42.00"
+  },
+  {
+    "name": "nonummy. Fusce fermentum",
+    "bathroom": 4,
+    "bedroom": 4,
+    "price": "812.00"
+  },
+  { "name": "nec, diam. Duis", "bathroom": 2, "bedroom": 4, "price": "276.00" },
+  {
+    "name": "dictum magna. Ut",
+    "bathroom": 4,
+    "bedroom": 1,
+    "price": "500.00"
+  },
+  {
+    "name": "mollis. Duis sit",
+    "bathroom": 1,
+    "bedroom": 2,
+    "price": "321.00"
+  },
+  {
+    "name": "malesuada vel, venenatis",
+    "bathroom": 1,
+    "bedroom": 4,
+    "price": "316.00"
+  },
+  {
+    "name": "leo elementum sem,",
+    "bathroom": 4,
+    "bedroom": 2,
+    "price": "620.00"
+  },
+  {
+    "name": "gravida nunc sed",
+    "bathroom": 2,
+    "bedroom": 1,
+    "price": "799.00"
+  },
+  { "name": "mauris eu elit.", "bathroom": 1, "bedroom": 2, "price": "183.00" },
+  {
+    "name": "vestibulum, neque sed",
+    "bathroom": 3,
+    "bedroom": 4,
+    "price": "104.00"
+  },
+  { "name": "sed pede nec", "bathroom": 3, "bedroom": 3, "price": "303.00" },
+  {
+    "name": "imperdiet dictum magna.",
+    "bathroom": 2,
+    "bedroom": 4,
+    "price": "352.00"
+  },
+  {
+    "name": "a feugiat tellus",
+    "bathroom": 4,
+    "bedroom": 4,
+    "price": "261.00"
+  },
+  { "name": "nisl. Nulla eu", "bathroom": 3, "bedroom": 2, "price": "449.00" },
+  {
+    "name": "malesuada fames ac",
+    "bathroom": 4,
+    "bedroom": 3,
+    "price": "020.00"
+  },
+  {
+    "name": "tellus faucibus leo,",
+    "bathroom": 3,
+    "bedroom": 3,
+    "price": "324.00"
+  },
+  {
+    "name": "Nulla eget metus",
+    "bathroom": 4,
+    "bedroom": 2,
+    "price": "720.00"
+  },
+  {
+    "name": "lobortis. Class aptent",
+    "bathroom": 4,
+    "bedroom": 1,
+    "price": "715.00"
+  },
+  {
+    "name": "orci lobortis augue",
+    "bathroom": 4,
+    "bedroom": 3,
+    "price": "210.00"
+  },
+  {
+    "name": "nostra, per inceptos",
+    "bathroom": 4,
+    "bedroom": 3,
+    "price": "984.00"
+  },
+  {
+    "name": "dolor. Donec fringilla.",
+    "bathroom": 3,
+    "bedroom": 3,
+    "price": "179.00"
+  },
+  {
+    "name": "Pellentesque tincidunt tempus",
+    "bathroom": 4,
+    "bedroom": 4,
+    "price": "634.00"
+  },
+  { "name": "non magna. Nam", "bathroom": 1, "bedroom": 2, "price": "634.00" },
+  {
+    "name": "risus. Quisque libero",
+    "bathroom": 4,
+    "bedroom": 4,
+    "price": "539.00"
+  },
+  {
+    "name": "faucibus ut, nulla.",
+    "bathroom": 1,
+    "bedroom": 3,
+    "price": "185.00"
+  },
+  { "name": "at, velit. Cras", "bathroom": 3, "bedroom": 2, "price": "027.00" },
+  {
+    "name": "tincidunt vehicula risus.",
+    "bathroom": 2,
+    "bedroom": 2,
+    "price": "037.00"
+  },
+  {
+    "name": "sapien imperdiet ornare.",
+    "bathroom": 3,
+    "bedroom": 2,
+    "price": "042.00"
+  },
+  {
+    "name": "eu turpis. Nulla",
+    "bathroom": 2,
+    "bedroom": 4,
+    "price": "527.00"
+  },
+  { "name": "ut, sem. Nulla", "bathroom": 4, "bedroom": 3, "price": "732.00" },
+  {
+    "name": "vulputate velit eu",
+    "bathroom": 4,
+    "bedroom": 1,
+    "price": "904.00"
+  },
+  { "name": "mauris eu elit.", "bathroom": 4, "bedroom": 4, "price": "828.00" },
+  {
+    "name": "Aenean eget magna.",
+    "bathroom": 2,
+    "bedroom": 4,
+    "price": "792.00"
+  },
+  {
+    "name": "dolor vitae dolor.",
+    "bathroom": 2,
+    "bedroom": 3,
+    "price": "691.00"
+  },
+  {
+    "name": "eu augue porttitor",
+    "bathroom": 2,
+    "bedroom": 4,
+    "price": "259.00"
+  },
+  {
+    "name": "dui. Fusce aliquam,",
+    "bathroom": 4,
+    "bedroom": 3,
+    "price": "914.00"
+  },
+  {
+    "name": "Fusce dolor quam,",
+    "bathroom": 3,
+    "bedroom": 2,
+    "price": "381.00"
+  },
+  {
+    "name": "per conubia nostra,",
+    "bathroom": 2,
+    "bedroom": 4,
+    "price": "881.00"
+  },
+  { "name": "a nunc. In", "bathroom": 1, "bedroom": 1, "price": "123.00" },
+  {
+    "name": "Integer sem elit,",
+    "bathroom": 3,
+    "bedroom": 1,
+    "price": "914.00"
+  },
+  {
+    "name": "sociosqu ad litora",
+    "bathroom": 1,
+    "bedroom": 1,
+    "price": "051.00"
+  },
+  {
+    "name": "libero. Proin mi.",
+    "bathroom": 3,
+    "bedroom": 2,
+    "price": "305.00"
+  },
+  {
+    "name": "vitae, erat. Vivamus",
+    "bathroom": 1,
+    "bedroom": 4,
+    "price": "342.00"
+  },
+  { "name": "ut nisi a", "bathroom": 3, "bedroom": 1, "price": "933.00" },
+  {
+    "name": "enim nisl elementum",
+    "bathroom": 2,
+    "bedroom": 3,
+    "price": "185.00"
+  },
+  {
+    "name": "scelerisque mollis. Phasellus",
+    "bathroom": 1,
+    "bedroom": 3,
+    "price": "088.00"
+  },
+  {
+    "name": "quis turpis vitae",
+    "bathroom": 4,
+    "bedroom": 2,
+    "price": "899.00"
+  },
+  { "name": "dui, in sodales", "bathroom": 3, "bedroom": 3, "price": "658.00" },
+  {
+    "name": "eu turpis. Nulla",
+    "bathroom": 1,
+    "bedroom": 1,
+    "price": "967.00"
+  },
+  {
+    "name": "tincidunt dui augue",
+    "bathroom": 4,
+    "bedroom": 4,
+    "price": "351.00"
+  },
+  {
+    "name": "interdum libero dui",
+    "bathroom": 3,
+    "bedroom": 3,
+    "price": "127.00"
+  },
+  {
+    "name": "Sed molestie. Sed",
+    "bathroom": 3,
+    "bedroom": 2,
+    "price": "370.00"
+  },
+  {
+    "name": "non enim commodo",
+    "bathroom": 3,
+    "bedroom": 4,
+    "price": "826.00"
+  },
+  {
+    "name": "metus vitae velit",
+    "bathroom": 1,
+    "bedroom": 3,
+    "price": "320.00"
+  },
+  {
+    "name": "egestas blandit. Nam",
+    "bathroom": 3,
+    "bedroom": 1,
+    "price": "143.00"
+  },
+  {
+    "name": "risus varius orci,",
+    "bathroom": 3,
+    "bedroom": 3,
+    "price": "881.00"
+  },
+  {
+    "name": "sed, facilisis vitae,",
+    "bathroom": 1,
+    "bedroom": 1,
+    "price": "515.00"
+  },
+  { "name": "Nam tempor diam", "bathroom": 2, "bedroom": 2, "price": "925.00" },
+  {
+    "name": "eu dolor egestas",
+    "bathroom": 1,
+    "bedroom": 4,
+    "price": "874.00"
+  },
+  { "name": "Sed neque. Sed", "bathroom": 3, "bedroom": 4, "price": "993.00" },
+  {
+    "name": "mi lorem, vehicula",
+    "bathroom": 2,
+    "bedroom": 2,
+    "price": "128.00"
+  },
+  { "name": "Nam nulla magna,", "bathroom": 1, "bedroom": 4, "price": "698.00" }
+]
